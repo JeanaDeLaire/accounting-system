@@ -49,6 +49,9 @@ curl --request POST \
   }'
 ```
 
+## Setup the Web UI 
+Follow the steps in the Wep UI README for setup and running the frontend UI: [Web UI](https://github.com/JeanaDeLaire/accounting-system-app)
+
 ## Testing
 
 Unit tests are included for each api request in the **tests** folder. To run the test suite simply run:
