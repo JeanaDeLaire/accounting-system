@@ -49,7 +49,7 @@ curl --request POST \
 
 ## Testing
 
-Unit tests are including for each api request in the **tests** folder. To run the test suite simply run:
+Unit tests are included for each api request in the **tests** folder. To run the test suite simply run:
 
 ```
 npm test
