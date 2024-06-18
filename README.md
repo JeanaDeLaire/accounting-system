@@ -50,7 +50,7 @@ curl --request POST \
 ```
 
 ## Setup the Web UI 
-Follow the steps in the Wep UI README for setup and running the frontend UI: [Web UI](https://github.com/JeanaDeLaire/accounting-system-app)
+Follow the steps in the Web UI README for setup and running the frontend UI: [Web UI](https://github.com/JeanaDeLaire/accounting-system-app)
 
 ## Testing
 
