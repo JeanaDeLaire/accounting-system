@@ -26,6 +26,8 @@ There are two options for running the application:
 nodemon --inspect ./server.js
 ```
 
+Visit [nodemon docs](https://www.npmjs.com/package/nodemon) for more information. 
+
 2. Use node directly:
 
 ```
