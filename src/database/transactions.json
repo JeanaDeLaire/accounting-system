@@ -1,0 +1,26 @@
+{
+  "balance": 55.5,
+  "transactions": [
+    {
+      "date": "2024-06-22T14:01",
+      "amount": 10.5,
+      "type": "credit",
+      "description": "Payment Authorized",
+      "id": "fffc5f93-a640-4591-870e-0a7a527b73ae"
+    },
+    {
+      "date": "2024-06-19T14:02",
+      "amount": 5,
+      "type": "debit",
+      "description": "Debit ",
+      "id": "35d8988c-c699-4ea8-b809-a95f791ead7b"
+    },
+    {
+      "date": "2024-06-26T14:02",
+      "amount": 50,
+      "type": "credit",
+      "description": "Payment Authorized",
+      "id": "db1f2a7b-8054-46cb-b9ba-33f9004dca33"
+    }
+  ]
+}
